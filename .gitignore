@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+CFHI_Project/venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac
+.DS_Store
+
+# Data raw (opcional si no quieres subir datos crudos)
+data_raw/
