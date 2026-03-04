@@ -40,7 +40,7 @@ CFHI_Project
 
 - data_raw:
   
-   .datos financieros descargados desde la API
+   datos financieros descargados desde la API
 
 
 - notebooks:
@@ -56,7 +56,7 @@ CFHI_Project
   
   . 05_lsg50_index_research.ipynb → análisis del índice
   
-  .06_project_architecture.ipynb → documentación del pipeline
+  . 06_project_architecture.ipynb → documentación del pipeline
 
 
 - src:
@@ -67,13 +67,13 @@ CFHI_Project
 
 
 - sql:
-  
- .schema.sql
+
+  schema.sql
 
 
 - tableau:
-  
- .visualizaciones del índice
+
+  visualizaciones del índice
 
 ---
 
