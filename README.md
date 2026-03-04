@@ -37,27 +37,43 @@ El flujo de trabajo sigue las siguientes etapas:
 El proyecto está organizado en distintos módulos que representan cada etapa del pipeline de datos.
 
 CFHI_Project
-│
-├── data_raw
-│ Datos financieros descargados desde la API
-│
-├── notebooks
-│ 01_api_extraction.ipynb → extracción de datos
-│ 02_pipeline_clean.ipynb → limpieza y transformación
-│ 03_pipeline_build.ipynb → construcción del índice
-│ 04_lsg50_backtest.ipynb → backtest histórico
-│ 05_lsg50_index_research.ipynb → análisis del índice
-│ 06_project_architecture.ipynb → documentación del pipeline
-│
-├── src
-│ functions.py
-│ fundamentals.py
-│
-├── sql
-│ schema.sql
-│
-└── tableau
-visualizaciones del índice
+
+- data_raw:
+  
+   .datos financieros descargados desde la API
+
+
+- notebooks:
+
+  
+  . 01_api_extraction.ipynb → extracción de datos
+  
+  . 02_pipeline_clean.ipynb → limpieza y transformación
+  
+  . 03_pipeline_build.ipynb → construcción del índice
+  
+  . 04_lsg50_backtest.ipynb → backtest histórico
+  
+  . 05_lsg50_index_research.ipynb → análisis del índice
+  
+  .06_project_architecture.ipynb → documentación del pipeline
+
+
+- src:
+  
+  .functions.py
+  
+  .fundamentals.py
+
+
+- sql:
+  
+ .schema.sql
+
+
+- tableau:
+  
+ .visualizaciones del índice
 
 ---
 
