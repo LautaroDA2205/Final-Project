@@ -42,7 +42,7 @@ El flujo de trabajo sigue las siguientes etapas:
 
 Comparación del rendimiento del índice frente al S&P 500.
 
-![CFHI vs S&P500](images/lsg50_vs_sp500.png)
+![LSG50 vs S&P500](images/lsg50_vs_sp500.png)
 
 ---
 
