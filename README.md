@@ -38,10 +38,10 @@ El proyecto está organizado en distintos módulos que representan cada etapa de
 
 CFHI_Project
 │
-├─ data_raw
+├── data_raw
 │ Datos financieros descargados desde la API
 │
-├─ notebooks
+├── notebooks
 │ 01_api_extraction.ipynb → extracción de datos
 │ 02_pipeline_clean.ipynb → limpieza y transformación
 │ 03_pipeline_build.ipynb → construcción del índice
@@ -49,14 +49,14 @@ CFHI_Project
 │ 05_lsg50_index_research.ipynb → análisis del índice
 │ 06_project_architecture.ipynb → documentación del pipeline
 │
-├─ src
+├── src
 │ functions.py
 │ fundamentals.py
 │
-├─ sql
+├── sql
 │ schema.sql
 │
-└─ tableau
+└── tableau
 visualizaciones del índice
 
 ---
