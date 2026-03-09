@@ -132,7 +132,7 @@ CFHI_Project
 
 Comparación del rendimiento del índice CFHI frente al **S&P 500**.
 
-![Backtest CFHI vs S&P500](images/lsg50_vs_sp500.png)
+![Backtest CFHI vs S&P500](CFHI_Project/images/lsg50_vs_sp500.png)
 
 ---
 
@@ -150,11 +150,11 @@ Principales visualizaciones:
 
 ### Ejemplo de Dashboard
 
-![Dashboard CFHI](images/tableau_overview.png)
+![Dashboard CFHI](CFHI_Project/images/tableau_overview.png)
 
 ### Exposición sectorial del índice
 
-![Sector Allocation](images/sector_allocation.png)
+![Sector Allocation](CFHI_Project/images/sector_allocation.png)
 
 ---
 
