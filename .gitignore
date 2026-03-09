@@ -21,3 +21,5 @@ __pycache__/
 data_raw/
 
 __pycache__/
+
+.venv/ 
